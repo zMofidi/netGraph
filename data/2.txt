@@ -1,0 +1,15 @@
+url: http://web.mit.edu/
+fetch_time: 1396-12-11
+length: 101
+modified_time: 1396-05-22
+type: html
+
+outliks:
+http://web.mit.edu/institute-events/visitor/
+http://spotlight.mit.edu/?ref=mithomepage
+http://ut.ac.ir
+http://news.mit.edu/
+http://arts.mit.edu/
+http://digitalprograms.mit.edu/systems
+http://web.mit.edu/
+http://digitalprograms.mit.edu/iot

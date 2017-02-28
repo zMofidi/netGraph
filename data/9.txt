@@ -1,0 +1,13 @@
+url: http://www.ox.ac.uk/
+fetch_time: 1394-10-25
+length: 64
+modified_time: 1394-09-11
+type: html
+
+outliks:
+http://www.ox.ac.uk/admissions
+http://www.ox.ac.uk/event/we-need-talk-about-robert-bob-dylan-and-nobel-prize-literature
+http://www.ox.ac.uk/students
+http://www.ox.ac.uk/
+http://www.iust.ac.ir/
+http://ut.ac.ir/fa/page/249

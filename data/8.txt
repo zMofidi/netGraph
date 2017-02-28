@@ -1,0 +1,15 @@
+url: http://www.harvard.edu/
+fetch_time: 1395-07-23
+length: 38
+modified_time: 1395-07-11
+type: html
+
+outliks:
+http://www.harvard.edu/admissions-aid
+http://www.harvard.edu/about-harvard
+http://news.harvard.edu/gazette/story/2017/02/a-closer-look-at-post-election-stock-rally/
+http://news.harvard.edu/gazette/story/2017/02/rihanna-named-humanitarian-of-year/
+http://campaign.harvard.edu/
+http://news.harvard.edu/gazette/story/2017/02/moonlight-reflection/
+http://www.harvard.edu/admissions-aid
+http://www.harvard.edu/events

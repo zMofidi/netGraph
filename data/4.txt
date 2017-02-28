@@ -1,0 +1,13 @@
+url: http://ut.ac.ir
+fetch_time: 1395-01-03
+length: 23
+modified_time: 1395-01-01
+type: html
+
+outliks:
+http://ut.ac.ir/en
+http://www.ut.ac.ir/fa/contactus
+http://it.ut.ac.ir/internet
+http://ems.ut.ac.ir/
+http://rtis.ut.ac.ir/
+http://ut.ac.ir/fa/page/249

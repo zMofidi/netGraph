@@ -1,0 +1,16 @@
+url: http://www.aut.ac.ir/aut/fa/
+fetch_time: 1394-10-23
+length: 56
+modified_time: 1393-09-10
+type: html
+
+outliks:
+http://bmn.ir/
+http://ut.ac.ir/fa/page/249
+http://edu94.bmn.ir/
+http://isti.ir/uploads/unctad-fa.pdf
+http://faculty.aut.ac.ir/
+http://pr.aut.ac.ir/
+http://www.aut.ac.ir/aut/fa/NewsInfo.aspx?id=446
+http://ieoc.aut.ac.ir/
+http://al.aut.ac.ir/

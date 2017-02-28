@@ -1,0 +1,14 @@
+url: http://www.iust.ac.ir/
+fetch_time: 1395-09-27
+length: 23
+modified_time: 1395-09-11
+type: html
+
+outliks:
+http://international.iust.ac.ir/
+http://ut.ac.ir/fa/page/249
+http://sta.iust.ac.ir/
+http://email.iust.ac.ir/
+http://www.iust.ac.ir/
+http://video.iust.ac.ir/
+http://stu.iust.ac.ir/

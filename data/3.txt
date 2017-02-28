@@ -1,0 +1,13 @@
+url: http://www.sharif.ir/home
+fetch_time: 1395-10-03
+length: 74
+modified_time: 1395-09-25
+type: html
+
+outliks:
+http://www.sharif.ir/2
+http://ocw.sharif.edu/
+http://bmn.ir/
+http://president.ir/
+http://www.aut.ac.ir/
+http://ems.ut.ac.ir/
